@@ -26,7 +26,7 @@
   .um { 
     width:100%; 
     height:100px; 
-    margin-top: 30%;
+    margin-top: 26%;
     background-color: #40128b; 
    }
   
@@ -59,7 +59,7 @@
     width: 50%;
     margin-right: 10px;
     font-size: 1.2rem;
-    background-color: #000000 ;
+    background-color: #d3c3f9 ;
     border-radius: 10px;
     border-color: #40128b;
     font-family: Playwrite ;
